@@ -1,7 +1,16 @@
 .upgrades{
     position: absolute;
-    right: 0;
-    width: 50%;
-    height: 75%;
+    top: 42%;
+    right: 1%;
+    width: 40%;
+    height: 55%;
     border: 3px solid black;
+}
+.story{
+    position: absolute;
+    top: 60%;
+    right: 52%;
+    width: 46%;
+    height: 35%;
+    border: 3px solid red;
 }
